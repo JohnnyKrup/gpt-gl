@@ -8,7 +8,7 @@ const HomePage = () => {
           <h1 className="text-6xl font-bold text-primary">
             GPT-<span className="text-secondary">Graz</span>
           </h1>
-          <p className="py-6 text-md leading-loose">
+          <p className="py-6 text-md text-base-content leading-loose">
             GPT-Graz: Your AI-powered tour guide and much more! Powered by
             OpenAI, it enhances your conversations, content creation and much
             more!
